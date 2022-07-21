@@ -1,1 +1,1 @@
-# Data_Science_with_Logical_Regression
+# Data_Science_with_Linear_Regression
